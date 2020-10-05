@@ -24,7 +24,7 @@
       symbol
       decimals
     }
-    aprHistory(first: 20, orderBy: date, orderDirection: desc) {
+    aprHistory(first: 20) {
       amount
       duration
     }
@@ -50,7 +50,7 @@
       symbol
       decimals
     }
-    aprHistory(first: 20, orderBy: date, orderDirection: desc) {
+    aprHistory(first: 20) {
       amount
       duration
     }
@@ -94,7 +94,7 @@
       symbol
       decimals
     }
-    aprHistory(first: 20, orderBy: date, orderDirection: desc) {
+    aprHistory(first: 20) {
       amount
       duration
     }
@@ -120,7 +120,7 @@
       symbol
       decimals
     }
-    aprHistory(first: 20, orderBy: date, orderDirection: desc) {
+    aprHistory(first: 20) {
       amount
       duration
     }
@@ -154,7 +154,7 @@
         symbol
         decimals
       }
-      aprHistory(first: 20, orderBy: date, orderDirection: desc) {
+      aprHistory(first: 20) {
         amount
         duration
       }
@@ -177,7 +177,7 @@
         symbol
         decimals
       }
-      aprHistory(first: 20, orderBy: date, orderDirection: desc) {
+      aprHistory(first: 20) {
         amount
         duration
       }
